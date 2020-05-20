@@ -1,5 +1,5 @@
 <p align="center"> **CLAUDIA KANN** <br/>
-www.claudiakann.com | (203) 247 - 5417 | claudia.k.kann\@gmail.com </p>
+www.claudiakann.com | (203) 247 - 5417 | claudia.k.kann@gmail.com </p>
 
 **EDUCATION**
 
@@ -19,7 +19,7 @@ September 2020
 -   $75,000 in additional research grants
 
 
-**Rice University** Houston, TX\
+**Rice University** Houston, TX <br/>
 B.S. in Mechanical Engineering, GPA: 3.8 Graduated May 2017
 
 -   Honors: *Cum Laude*, Distinction in Research and Creative Work,
@@ -29,7 +29,7 @@ B.S. in Mechanical Engineering, GPA: 3.8 Graduated May 2017
 
 ------------------------------------------------------------------------
 
-**Graduate Student Researcher** California Institute of Technology\
+**Graduate Student Researcher** California Institute of Technology <br/>
 *Theoretical and experimental research in bipedal robotics* Sept. 2017 -
 Sept. 2020
 
@@ -43,7 +43,7 @@ Sept. 2020
     exoskeleton used to enable patients with paraplegia to walk without
     crutches
 
-**Undergraduate Student Researcher** Rice University\
+**Undergraduate Student Researcher** Rice University <br/>
 *Design of mechatronic systems to rehabilitate or augment human motor
 control* Sept. 2015 - May 2017
 
@@ -69,7 +69,7 @@ control* Sept. 2015 - May 2017
 
 -   Diagnosed and repaired legacy experimental robotic hardware
 
-**Teaching Assistant** Rice University\
+**Teaching Assistant** Rice University <br/>
 *Thermal System Design Course* Aug. 2016 - Dec. 2016
 
 -   Graded and assessed student performance
@@ -77,8 +77,8 @@ control* Sept. 2015 - May 2017
 -   Held office hours to help students further understand the class
     material
 
-\
-**Structural Engineering Intern** Pratt and Whitney\
+
+**Structural Engineering Intern** Pratt and Whitney <br/>
 *Structural analysis for jet engine turbomachinery* June 2016 - Aug.
 2016
 
@@ -99,7 +99,7 @@ control* Sept. 2015 - May 2017
 -   Analyzed Low Pressure Turbine Case to assess displacement due to
     thermal and pressure gradients as well as external loading
 
-**Robotics Intern** NASA Johnson Space Center\
+**Robotics Intern** NASA Johnson Space Center <br/>
 *Robotic assistive devices for space station and space suit
 applications* June 2015 - Aug. 2015
 
@@ -122,7 +122,7 @@ applications* June 2015 - Aug. 2015
     -   Assisted in human in the loop testing of wearable robotic
         systems
 
-**Engineering Intern** LumaDyne, LLC\
+**Engineering Intern** LumaDyne, LLC <br/>
 *Electromechanical design and fabrication for aerospace and academic
 clients* June 2014 - Dec. 2014
 
@@ -148,7 +148,7 @@ clients* June 2014 - Dec. 2014
     -   Researched, designed, and engineered pulley system to enable
         horizontal and vertical rotational movement
 
-**Marketing Intern** Terex Corporation\
+**Marketing Intern** Terex Corporation <br/>
 *Global manufacturer of lifting and material processing products* May
 2013
 
@@ -196,21 +196,21 @@ Engineering, 2017
 
 ------------------------------------------------------------------------
 
--   [Reher, Jenna, [Claudia Kann]{.underline}, and Aaron D. Ames. \"An
+-   [Reher, Jenna, **Claudia Kann** , and Aaron D. Ames. \"An
     Inverse Dynamics Approach to Control Lyapunov Functions.\" arXiv
     preprint arXiv:1910.10824 (2019).](https://arxiv.org/pdf/1910.10824.pdf)
 
--   [Tucker, Maegan, Ellen Novoseller, [Claudia Kann]{.underline}, Yanan
+-   [Tucker, Maegan, Ellen Novoseller, **Claudia Kann**, Yanan
     Sui, Yisong Yue, Joel Burdick, and Aaron D. Ames. \"Preference-Based
     Learning for Exoskeleton Gait Optimization.\" arXiv preprint
     arXiv:1909.12316 (2019).](https://arxiv.org/pdf/1909.12316.pdf)
 
--   [C.G. Rose, E. Pezent, [C.K.Kann]{.underline}, A.D. Deshpande, M.K.
+-   [C.G. Rose, E. Pezent, **C.K.Kann**, A.D. Deshpande, M.K.
     O'Malley., "Assessing Wrist Movement with Robotic Devices," in IEEE
     Transactions on Neural Systems & Rehabilitation Engineering (TNSRE),
     2017](https://ieeexplore.ieee.org/abstract/document/8404087)
 
--   [C. G. Rose, [C. K. Kann]{.underline}, A. D. Deshpande, M. K.
+-   [C. G. Rose, **C. K. Kann** , A. D. Deshpande, M. K.
     O'Malley., "Estimating Anatomical Wrist Joint Motion with a Robotic
     Exoskeleton," in IEEE Intl. Conf. on Rehab. Robotics (ICORR), 2017](https://ieeexplore.ieee.org/abstract/document/8009450)
 
