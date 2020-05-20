@@ -1,5 +1,5 @@
-<p align="center"> **CLAUDIA KANN**\
-www.claudiakann.com | (203) 247 - 5417 |claudia.k.kann\@gmail.com </p>
+<p align="center"> **CLAUDIA KANN** <br/>
+www.claudiakann.com | (203) 247 - 5417 | claudia.k.kann\@gmail.com </p>
 
 **EDUCATION**
 
