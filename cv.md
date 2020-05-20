@@ -1,5 +1,5 @@
 
-<a id="raw-url" href="https://caltech-my.sharepoint.com/personal/ckann_caltech_edu/Documents/Claudia_Kann_Full_CV.pdf?csf=1&web=1&e=xXjgF2">Download PDF of CV</a>
+<a id="raw-url" href="https://drive.google.com/file/d/10Og0Hp9gGI3eQkZ7aNB6Aoi1YxIxOLZc/view?usp=sharing">Download PDF of CV</a>
 
 
 ## **EDUCATION**
