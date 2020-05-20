@@ -18,7 +18,7 @@ Feel free to explore some of my past and present research! <br/>
  <tr>
    <td>
     
-    ![test image size](Ames_Robotics_Lab-CASSIE-8211.jpg){:align = left height="49%" width="49%"}
+    ![test image size](img/Ames_Robotics_Lab-CASSIE-8211.jpg){:align = left height="49%" width="49%"}
   </td>
   <td>
    
@@ -40,7 +40,7 @@ Feel free to explore some of my past and present research! <br/>
  <tr>
    <td>
     
-![test image size](wrist.png){:align = left height="49%" width="49%"}
+![test image size](img/wrist.png){:align = left height="49%" width="49%"}
   </td>
   <td>
    
