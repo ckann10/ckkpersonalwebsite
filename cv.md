@@ -1,15 +1,16 @@
----
-address: |
-  1120 W $6^{th}$ St Apt 1406, Los Angeles, CA, 90017\
-  (203) 247 - 5417\
-  claudia.k.kann\@gmail.com
----
+**CLAUDIA KANN**\
+www.claudiakann.com $\diamond$ (203) 247 - 5417 $\diamond$
+claudia.k.kann\@gmail.com
 
-Education
+**EDUCATION**
+
+------------------------------------------------------------------------
 
 **California Institute of Technology**Pasadena, CA\
+M.S. in Social SciencesSeptember 2020 - Present\
+**California Institute of Technology**Pasadena, CA\
 M.S. in Mechanical Engineering, PhD Candidate, GPA: 4.0September 2017 -
-Present
+September 2020
 
 -   National Science Foundation Graduate Research Fellowship
     ($\$138,000$)
@@ -25,10 +26,13 @@ B.S. in Mechanical Engineering, GPA: 3.8 Graduated May 2017
 -   Honors: *Cum Laude*, Distinction in Research and Creative Work,
     President's Honor Roll (2015, 2016)
 
-Experience **Graduate Student Researcher** California Institute of
-Technology\
+**EXPERIENCE**
+
+------------------------------------------------------------------------
+
+**Graduate Student Researcher** California Institute of Technology\
 *Theoretical and experimental research in bipedal robotics* Sept. 2017 -
-Present
+Sept. 2020
 
 -   Managed six undergraduate summer researchers to create a semi-soft
     ankle exoskeleton
@@ -159,14 +163,20 @@ clients* June 2014 - Dec. 2014
     company approaches trade shows and the effectiveness of the most
     recent one
 
-Awards and Honors **National Science Foundation Graduate Research
-Fellowship (NSF GRFP)** - 2020\
+**AWARDS AND HONORS**
+
+------------------------------------------------------------------------
+
+**National Science Foundation Graduate Research Fellowship (NSF GRFP)**
+- 2020\
 **Henry L. Guenther Graduate Fellowship in Mechanical Engineering**\
 **Distinction in Research and Creative Work,** George R. Brown School of
 Engineering\
 **President's Honor Roll,** Rice University , 2016
 
-STandardized TEsting
+**STANDARDIZED TESTING**
+
+------------------------------------------------------------------------
 
 -   GRE: Verbal 162, Quantitative 165, Analytical Writing 4.5
 
@@ -175,14 +185,27 @@ STandardized TEsting
 -   SAT Subject Tests: Physics 750, Chemistry 750, Biology 800, Math II
     800
 
-Technical Skills
+**TECHNICAL SKILLS**
+
+------------------------------------------------------------------------
 
 -   Mastered Google Office Suite, LaTeX, Mathematica, MATLAB, Microsoft
     Office Suite, Simulink, SolidWorks
 
 -   Proficient ANSYS, C++, LaTeX, ProE, Python, R
 
-Publications
+**PUBLICATIONS**
+
+------------------------------------------------------------------------
+
+-   Reher, Jenna, [Claudia Kann]{.underline}, and Aaron D. Ames. \"An
+    Inverse Dynamics Approach to Control Lyapunov Functions.\" arXiv
+    preprint arXiv:1910.10824 (2019).
+
+-   Tucker, Maegan, Ellen Novoseller, [Claudia Kann]{.underline}, Yanan
+    Sui, Yisong Yue, Joel Burdick, and Aaron D. Ames. \"Preference-Based
+    Learning for Exoskeleton Gait Optimization.\" arXiv preprint
+    arXiv:1909.12316 (2019).
 
 -   C.G. Rose, E. Pezent, [C.K.Kann]{.underline}, A.D. Deshpande, M.K.
     O'Malley., "Assessing Wrist Movement with Robotic Devices," in IEEE
@@ -193,10 +216,18 @@ Publications
     O'Malley., "Estimating Anatomical Wrist Joint Motion with a Robotic
     Exoskeleton," in IEEE Intl. Conf. on Rehab. Robotics (ICORR), 2017
 
-Interests Rock climbing, weight training, reading non fiction, cooking,
+**INTERESTS**
+
+------------------------------------------------------------------------
+
+Rock climbing, weight training, reading non fiction, cooking,
 international travel
 
-Activities Bartender at Willy's Pub - 2017\
+**ACTIVITIES**
+
+------------------------------------------------------------------------
+
+Bartender at Willy's Pub - 2017\
 Brown College Academic Fellow - 2016\
 Rice University Cheerleader - 2015\
 Tutor at Caroline house, Education Center for Immigrant Women and
