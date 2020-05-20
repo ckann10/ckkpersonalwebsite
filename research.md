@@ -24,7 +24,7 @@ Feel free to explore some of my past and present research! <br/>
     Learning for Exoskeleton Gait Optimization.\" arXiv preprint
     arXiv:1909.12316 (2019).](https://arxiv.org/pdf/1909.12316.pdf)
 
-### **Mechatronic and Haptic Interfaces Lab**, Rice University (2015-2017) <br/>
+### **MAHI Lab**, Rice University (2015-2017) <br/>
 ![test image size](wrist.png){:align = left height="49%" width="49%"}
 -   [C.G. Rose, E. Pezent, **C.K.Kann**, A.D. Deshpande, M.K.
     O'Malley., "Assessing Wrist Movement with Robotic Devices," in IEEE
