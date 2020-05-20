@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About me
+title: About
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Claudia Kann and I am a first year PhD student in the Social Sciences at Caltech. Working with Michael Alvarez and Jonathan Katz I am focusing on the structural explanations for misrepresentation in the political system at the local and federal level. I am also interested in election administration. My path to get to this point was a little bit windy...
 
 ### my history
 
