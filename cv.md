@@ -1,0 +1,203 @@
+---
+address: |
+  1120 W $6^{th}$ St Apt 1406, Los Angeles, CA, 90017\
+  (203) 247 - 5417\
+  claudia.k.kann\@gmail.com
+---
+
+Education
+
+**California Institute of Technology**Pasadena, CA\
+M.S. in Mechanical Engineering, PhD Candidate, GPA: 4.0September 2017 -
+Present
+
+-   National Science Foundation Graduate Research Fellowship
+    ($\$138,000$)
+
+-   Henry L. Guenther Graduate Fellowship in Mechanical Engineering
+
+-   $\$75,000$ in additional research grants
+
+\
+**Rice University** Houston, TX\
+B.S. in Mechanical Engineering, GPA: 3.8 Graduated May 2017
+
+-   Honors: *Cum Laude*, Distinction in Research and Creative Work,
+    President's Honor Roll (2015, 2016)
+
+Experience **Graduate Student Researcher** California Institute of
+Technology\
+*Theoretical and experimental research in bipedal robotics* Sept. 2017 -
+Present
+
+-   Managed six undergraduate summer researchers to create a semi-soft
+    ankle exoskeleton
+
+-   Conducted research into cutting edge robotic theory for robotic
+    assitive devices
+
+-   Worked on software, simulation, and experimentation for a lower body
+    exoskeleton used to enable patients with paraplegia to walk without
+    crutches
+
+**Undergraduate Student Researcher** Rice University\
+*Design of mechatronic systems to rehabilitate or augment human motor
+control* Sept. 2015 - May 2017
+
+-   Investigated collaboration with Pediatric Orthopedic Surgeon to
+    create a way to assess the effectiveness of surgery meant to negate
+    the effects of Cerebral Palsy in young children
+
+-   Created software and hardware to use the OptiTrack Motion Capture
+    System to analyze wrist movement in space
+
+    -   Utilized optimization methods presented by E.V. Biryukova in
+        2000 to artificially create wrist axes
+
+    -   Created a simple calibration and assessment game using MATLAB
+        and QUARC
+
+    -   Built experimental hardware and investigated best arrangement of
+        cameras and wearable markers
+
+    -   Processed data using a Savitzky­Golay filter
+
+    -   Prepared a pilot study and publication for Fall 2016
+
+-   Diagnosed and repaired legacy experimental robotic hardware
+
+**Teaching Assistant** Rice University\
+*Thermal System Design Course* Aug. 2016 - Dec. 2016
+
+-   Graded and assessed student performance
+
+-   Held office hours to help students further understand the class
+    material
+
+\
+**Structural Engineering Intern** Pratt and Whitney\
+*Structural analysis for jet engine turbomachinery* June 2016 - Aug.
+2016
+
+-   Assessed current mid turbine frame geometry for new application
+
+    -   Used finite element analysis to convert thermal and barometric
+        information for a full mission onto a structural model
+
+    -   Investigated key time points and geographical locations on model
+        and pulled detailed information such as stresses, temperatures,
+        strains, and displacements
+
+    -   Analyzed the low cycle fatigue and thermal mechanical fatigue
+        life cycles of the part
+
+-   Modeled high pressure turbine blades to simulate frequency testing
+
+-   Analyzed Low Pressure Turbine Case to assess displacement due to
+    thermal and pressure gradients as well as external loading
+
+**Robotics Intern** NASA Johnson Space Center\
+*Robotic assistive devices for space station and space suit
+applications* June 2015 - Aug. 2015
+
+-   Conducted research on Human Joint Position Sensing Technology
+
+    -   Performance trade study
+
+    -   Implemented Cartesian sensing into high level controls software
+
+    -   Performed integrated testing with robotic system
+
+-   Designed, tested, and implemented housings
+
+-   Developed a "Design of Experiments" for addressing wearable robotic
+    control sensitivities using the Taguchi Method
+
+    -   Carried out testing and provided report and recommendations to
+        team
+
+    -   Assisted in human in the loop testing of wearable robotic
+        systems
+
+**Engineering Intern** LumaDyne, LLC\
+*Electromechanical design and fabrication for aerospace and academic
+clients* June 2014 - Dec. 2014
+
+-   Key contributor to a machine used by Baylor School of Medicine to
+    research brain trauma in rats
+
+    -   Independently researched, designed, and engineered a pneumatic
+        control system
+
+    -   Designed and fabricated release mechanism
+
+    -   Tested to ensure desired results and safety
+
+-   Independently updated and recreated a spectrometer cooler
+
+    -   Populated PCB's and integrated them into designs
+
+    -   Edited drawings to accurately represent the updated project
+
+-   Created and tested a Solar Steam Generator to be used in
+    underdeveloped nations
+
+    -   Researched, designed, and engineered pulley system to enable
+        horizontal and vertical rotational movement
+
+**Marketing Intern** Terex Corporation\
+*Global manufacturer of lifting and material processing products* May
+2013
+
+-   Corporate Marketing Review -- review of customer facing material to
+    ensure consistency
+
+-   Marketing Budget Analysis -- created a comprehensive report on
+    spending
+
+-   Trade Show Review -- presented summary of findings regarding how the
+    company approaches trade shows and the effectiveness of the most
+    recent one
+
+Awards and Honors **National Science Foundation Graduate Research
+Fellowship (NSF GRFP)** - 2020\
+**Henry L. Guenther Graduate Fellowship in Mechanical Engineering**\
+**Distinction in Research and Creative Work,** George R. Brown School of
+Engineering\
+**President's Honor Roll,** Rice University , 2016
+
+STandardized TEsting
+
+-   GRE: Verbal 162, Quantitative 165, Analytical Writing 4.5
+
+-   SAT: Critical Reading 760, Math 800
+
+-   SAT Subject Tests: Physics 750, Chemistry 750, Biology 800, Math II
+    800
+
+Technical Skills
+
+-   Mastered Google Office Suite, LaTeX, Mathematica, MATLAB, Microsoft
+    Office Suite, Simulink, SolidWorks
+
+-   Proficient ANSYS, C++, LaTeX, ProE, Python, R
+
+Publications
+
+-   C.G. Rose, E. Pezent, [C.K.Kann]{.underline}, A.D. Deshpande, M.K.
+    O'Malley., "Assessing Wrist Movement with Robotic Devices," in IEEE
+    Transactions on Neural Systems & Rehabilitation Engineering (TNSRE),
+    2017
+
+-   C. G. Rose, [C. K. Kann]{.underline}, A. D. Deshpande, M. K.
+    O'Malley., "Estimating Anatomical Wrist Joint Motion with a Robotic
+    Exoskeleton," in IEEE Intl. Conf. on Rehab. Robotics (ICORR), 2017
+
+Interests Rock climbing, weight training, reading non fiction, cooking,
+international travel
+
+Activities Bartender at Willy's Pub - 2017\
+Brown College Academic Fellow - 2016\
+Rice University Cheerleader - 2015\
+Tutor at Caroline house, Education Center for Immigrant Women and
+Children - 2013
