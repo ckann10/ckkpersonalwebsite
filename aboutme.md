@@ -12,7 +12,7 @@ subtitle: Social Science Graduate Student at Caltech
 
  
  <div class="img">
-  <img width="300" style = "margin: 0;" src="https://github.com/ckann10/ckann10.github.io/blob/master/HeadShot.jpg" id = "profile">
+  <img width="300" style = "margin: 0;" src="img/HeadShot.jpg" id = "profile">
 </div>
 
 
