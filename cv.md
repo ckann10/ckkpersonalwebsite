@@ -1,5 +1,7 @@
-<p align="center"> **CLAUDIA KANN** <br/>
-www.claudiakann.com | (203) 247 - 5417 | claudia.k.kann@gmail.com </p>
+
+    [Downloadable PDF](Claudia_Kann_Full_CV__Copy_.pdf) <br/>
+**CLAUDIA KANN** <br/>
+www.claudiakann.com | (203) 247 - 5417 | claudia.k.kann@gmail.com 
 
 **EDUCATION**
 
