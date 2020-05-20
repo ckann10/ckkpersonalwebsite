@@ -1,6 +1,5 @@
-**CLAUDIA KANN**\
-www.claudiakann.com * (203) 247 - 5417 $\diamond$
-claudia.k.kann\@gmail.com
+<center> **CLAUDIA KANN** <center>\
+<center>www.claudiakann.com | (203) 247 - 5417 |claudia.k.kann\@gmail.com <center>
 
 **EDUCATION**
 
