@@ -5,8 +5,8 @@ title: Research
 
 Feel free to explore some of my past and present research!
 
-**Amber Lab**, Caltech
-![test image size](Ames_Robotics_Lab-CASSIE-8211.jpg){:height="49%" width="49%"}
+**Amber Lab**, Caltech <br/>
+![test image size](Ames_Robotics_Lab-CASSIE-8211.jpg){:align = left height="49%" width="49%"}
  -   [Reher, Jenna, **Claudia Kann** , and Aaron D. Ames. \"An
     Inverse Dynamics Approach to Control Lyapunov Functions.\" arXiv
     preprint arXiv:1910.10824 (2019).](https://arxiv.org/pdf/1910.10824.pdf)
@@ -16,8 +16,8 @@ Feel free to explore some of my past and present research!
     Learning for Exoskeleton Gait Optimization.\" arXiv preprint
     arXiv:1909.12316 (2019).](https://arxiv.org/pdf/1909.12316.pdf)
 
-**Mechatronic and Haptic Interfaces Lab**, Rice University
-![test image size](Ames_Robotics_Lab-CASSIE-8416.jpg){:height="49%" width="49%"}
+**Mechatronic and Haptic Interfaces Lab**, Rice University <br/>
+![test image size](Ames_Robotics_Lab-CASSIE-8416.jpg){:align = left height="49%" width="49%"}
 -   [C.G. Rose, E. Pezent, **C.K.Kann**, A.D. Deshpande, M.K.
     O'Malley., "Assessing Wrist Movement with Robotic Devices," in IEEE
     Transactions on Neural Systems & Rehabilitation Engineering (TNSRE),
