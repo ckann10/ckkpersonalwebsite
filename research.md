@@ -5,14 +5,20 @@ title: Research
 # Current <br/>
 --------------------------------------
 ### **Election Administration** <br/>
+
+This is what I'm doing for Election Administration
+
 ### **Board of Supervisors** <br/>
+
+This is what I'm doing for BoS
+
 ### **Covid Protest Tracking** <br/>
+
+
 ### **Hidden Donors** <br/>
 
 # Past <br/>
 --------------------------------------
-## **Political Science** <br/>
-
 ## **Mechanical Engineering** <br/>
 ### **Amber Lab**, Caltech (2017-2020) <br/>
  ![cassie](img/Ames_Robotics_Lab-CASSIE-8211.jpg){:align = center width="1000"}
