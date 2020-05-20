@@ -2,16 +2,17 @@
 layout: page
 title: Research
 ---
-
-Feel free to explore some of my past and present research! <br/>
 # Current <br/>
+--------------------------------------
 ### **Election Administration** <br/>
 ### **Board of Supervisors** <br/>
 ### **Covid Protest Tracking** <br/>
 ### **Hidden Donors** <br/>
 
 # Past <br/>
+--------------------------------------
 ## **Political Science** <br/>
+
 ## **Mechanical Engineering** <br/>
 ### **Amber Lab**, Caltech (2017-2020) <br/>
  ![cassie](img/Ames_Robotics_Lab-CASSIE-8211.jpg){:align = center width="1000"}
