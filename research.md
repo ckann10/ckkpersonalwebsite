@@ -14,7 +14,7 @@ Feel free to explore some of my past and present research! <br/>
 ## **Political Science** <br/>
 ## **Mechanical Engineering** <br/>
 ### **Amber Lab**, Caltech (2017-2020) <br/>
- ![cassie](img/Ames_Robotics_Lab-CASSIE-8211.jpg){:align = center width="300"}
+ ![cassie](img/Ames_Robotics_Lab-CASSIE-8211.jpg){:align = center width="1000"}
 #### Publications   
  - Reher, Jenna, **Claudia Kann** , and Aaron D. Ames. \"An
     Inverse Dynamics Approach to Control Lyapunov Functions.\" arXiv
@@ -26,7 +26,7 @@ Feel free to explore some of my past and present research! <br/>
     arXiv:1909.12316 (2019).[pdf](https://arxiv.org/pdf/1909.12316.pdf)
     
 ### **MAHI Lab**, Rice University (2015-2017) <br/>
-![wrist](img/wrist.png){:align = center width="300"}
+![wrist](img/wrist.png){:align = center width="1000"}
 
 #### Publications
 - C.G. Rose, E. Pezent, **C.K.Kann**, A.D. Deshpande, M.K.
