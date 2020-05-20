@@ -1,4 +1,4 @@
-"# --- Basic options --- #
+# --- Basic options --- #
 url: "http://claudiakann.github.io"
 # Name of website
 title: Claudia Kann
@@ -12,7 +12,8 @@ author: Claudia Kann
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "aboutme"
+  Home: "home"
+  About: "aboutme"
   CV: "cv"
   Research: "research"
   #Author's home: "https://deanattali.com"
