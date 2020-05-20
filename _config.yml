@@ -1,5 +1,6 @@
 # --- Basic options --- #
-url: "http://claudiakann.github.io/index"
+url: "http://claudiakann.github.io"
+baseurl: ""
 # Name of website
 title: Claudia Kann
 
