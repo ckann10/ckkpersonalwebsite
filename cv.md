@@ -1,5 +1,5 @@
 
-<a id="raw-url" href="https://raw.githubusercontent.com/ckann10/ckann10.github.io/blob/master/Claudia_Kann_Full_CV__Copy_.pdf">Download PDF of CV</a>
+<a id="raw-url" href="https://github.com/ckann10/ckann10.github.io/blob/master/Claudia_Kann_Full_CV__Copy_.pdf">Download PDF of CV</a>
 
 
 **EDUCATION**
