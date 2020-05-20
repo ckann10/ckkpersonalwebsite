@@ -12,7 +12,7 @@ author: Claudia Kann
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
+  Home: "index"
   About: "aboutme"
   CV: "cv"
   Research: "research"
