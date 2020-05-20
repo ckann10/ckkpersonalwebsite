@@ -15,4 +15,4 @@ subtitle: Social Science Graduate Student at Caltech
   <img width="300" style = "margin: 0;" src="https://github.com/ckann10/ckann10.github.io/blob/master/HeadShot.jpg" id = "profile">
 </div>
 
- ![head](HeadShot.jpg){:align = right height="49%" width="49%"}
+
