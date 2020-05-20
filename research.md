@@ -25,7 +25,7 @@ Feel free to explore some of my past and present research! <br/>
     arXiv:1909.12316 (2019).](https://arxiv.org/pdf/1909.12316.pdf)
 
 ### **Mechatronic and Haptic Interfaces Lab**, Rice University (2015-2017) <br/>
-![test image size](Ames_Robotics_Lab-CASSIE-8416.jpg){:align = left height="49%" width="49%"}
+![test image size](wrist.png){:align = left height="49%" width="49%"}
 -   [C.G. Rose, E. Pezent, **C.K.Kann**, A.D. Deshpande, M.K.
     O'Malley., "Assessing Wrist Movement with Robotic Devices," in IEEE
     Transactions on Neural Systems & Rehabilitation Engineering (TNSRE),
