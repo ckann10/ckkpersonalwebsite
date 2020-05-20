@@ -1,5 +1,6 @@
 
-    [Downloadable PDF](https://github.com/ckann10/ckann10.github.io/blob/master/Claudia_Kann_Full_CV__Copy_.pdf) <br/>
+<a id="raw-url" href="https://raw.githubusercontent.com/ckann10/ckann10.github.io/blob/master/Claudia_Kann_Full_CV__Copy_.pdf">Download PDF of CV</a>
+
 **CLAUDIA KANN** <br/>
 www.claudiakann.com | (203) 247 - 5417 | claudia.k.kann@gmail.com 
 
