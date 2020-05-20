@@ -15,8 +15,8 @@ navbar-links:
   Home: "home"
   About: "aboutme"
   CV: "cv"
-  Research: "research"
-    - Mechancical: "mechanical"
+  Research: 
+    - Mechancical: "research"
     - Elections: "elections"
     - Protest Twitter: "protest"
   #Author's home: "https://deanattali.com"
