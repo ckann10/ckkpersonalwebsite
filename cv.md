@@ -5,20 +5,20 @@ www.claudiakann.com | (203) 247 - 5417 | claudia.k.kann\@gmail.com </p>
 
 ------------------------------------------------------------------------
 
-**California Institute of Technology**Pasadena, CA\
-M.S. in Social SciencesSeptember 2020 - Present\
-**California Institute of Technology**Pasadena, CA\
+**California Institute of Technology**Pasadena, CA
+M.S. in Social SciencesSeptember 2020 - Present
+**California Institute of Technology**Pasadena, CA
 M.S. in Mechanical Engineering, PhD Candidate, GPA: 4.0September 2017 -
 September 2020
 
 -   National Science Foundation Graduate Research Fellowship
-    ($\$138,000$)
+    ($138,000)
 
 -   Henry L. Guenther Graduate Fellowship in Mechanical Engineering
 
--   $\$75,000$ in additional research grants
+-   $75,000 in additional research grants
 
-\
+
 **Rice University** Houston, TX\
 B.S. in Mechanical Engineering, GPA: 3.8 Graduated May 2017
 
@@ -166,12 +166,11 @@ clients* June 2014 - Dec. 2014
 
 ------------------------------------------------------------------------
 
-**National Science Foundation Graduate Research Fellowship (NSF GRFP)**
-- 2020\
-**Henry L. Guenther Graduate Fellowship in Mechanical Engineering**\
-**Distinction in Research and Creative Work,** George R. Brown School of
-Engineering\
-**President's Honor Roll,** Rice University , 2016
+- **National Science Foundation Graduate Research Fellowship (NSF GRFP)**, 2017-2020
+- **Henry L. Guenther Graduate Fellowship in Mechanical Engineering**, 2017
+- **Distinction in Research and Creative Work,** George R. Brown School of
+Engineering, 2017
+- **President's Honor Roll,** Rice University , 2016
 
 **STANDARDIZED TESTING**
 
@@ -197,23 +196,23 @@ Engineering\
 
 ------------------------------------------------------------------------
 
--   Reher, Jenna, [Claudia Kann]{.underline}, and Aaron D. Ames. \"An
+-   [Reher, Jenna, [Claudia Kann]{.underline}, and Aaron D. Ames. \"An
     Inverse Dynamics Approach to Control Lyapunov Functions.\" arXiv
-    preprint arXiv:1910.10824 (2019).
+    preprint arXiv:1910.10824 (2019).](https://arxiv.org/pdf/1910.10824.pdf)
 
--   Tucker, Maegan, Ellen Novoseller, [Claudia Kann]{.underline}, Yanan
+-   [Tucker, Maegan, Ellen Novoseller, [Claudia Kann]{.underline}, Yanan
     Sui, Yisong Yue, Joel Burdick, and Aaron D. Ames. \"Preference-Based
     Learning for Exoskeleton Gait Optimization.\" arXiv preprint
-    arXiv:1909.12316 (2019).
+    arXiv:1909.12316 (2019).](https://arxiv.org/pdf/1909.12316.pdf)
 
--   C.G. Rose, E. Pezent, [C.K.Kann]{.underline}, A.D. Deshpande, M.K.
+-   [C.G. Rose, E. Pezent, [C.K.Kann]{.underline}, A.D. Deshpande, M.K.
     O'Malley., "Assessing Wrist Movement with Robotic Devices," in IEEE
     Transactions on Neural Systems & Rehabilitation Engineering (TNSRE),
-    2017
+    2017](https://ieeexplore.ieee.org/abstract/document/8404087)
 
--   C. G. Rose, [C. K. Kann]{.underline}, A. D. Deshpande, M. K.
+-   [C. G. Rose, [C. K. Kann]{.underline}, A. D. Deshpande, M. K.
     O'Malley., "Estimating Anatomical Wrist Joint Motion with a Robotic
-    Exoskeleton," in IEEE Intl. Conf. on Rehab. Robotics (ICORR), 2017
+    Exoskeleton," in IEEE Intl. Conf. on Rehab. Robotics (ICORR), 2017](https://ieeexplore.ieee.org/abstract/document/8009450)
 
 **INTERESTS**
 
