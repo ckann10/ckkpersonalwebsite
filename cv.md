@@ -5,9 +5,9 @@ www.claudiakann.com | (203) 247 - 5417 | claudia.k.kann\@gmail.com </p>
 
 ------------------------------------------------------------------------
 
-**California Institute of Technology**Pasadena, CA
-M.S. in Social SciencesSeptember 2020 - Present
-**California Institute of Technology**Pasadena, CA
+**California Institute of Technology**Pasadena, CA <br/>
+M.S. in Social SciencesSeptember 2020 - Present <br/>
+**California Institute of Technology**Pasadena, CA <br/>
 M.S. in Mechanical Engineering, PhD Candidate, GPA: 4.0September 2017 -
 September 2020
 
