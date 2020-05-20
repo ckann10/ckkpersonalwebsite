@@ -2,13 +2,13 @@
 <a id="raw-url" href="https://github.com/ckann10/ckann10.github.io/blob/master/Claudia_Kann_Full_CV__Copy_.pdf">Download PDF of CV</a>
 
 
-**EDUCATION**
+## **EDUCATION**
 
 ------------------------------------------------------------------------
 
-**California Institute of Technology**Pasadena, CA <br/>
+### **California Institute of Technology** Pasadena, CA <br/>
 M.S. in Social SciencesSeptember 2020 - Present <br/>
-**California Institute of Technology**Pasadena, CA <br/>
+### **California Institute of Technology** Pasadena, CA <br/>
 M.S. in Mechanical Engineering, PhD Candidate, GPA: 4.0September 2017 -
 September 2020
 
@@ -20,13 +20,13 @@ September 2020
 -   $75,000 in additional research grants
 
 
-**Rice University** Houston, TX <br/>
+### **Rice University** Houston, TX <br/>
 B.S. in Mechanical Engineering, GPA: 3.8 Graduated May 2017
 
 -   Honors: *Cum Laude*, Distinction in Research and Creative Work,
     President's Honor Roll (2015, 2016)
 
-**EXPERIENCE**
+## **EXPERIENCE**
 
 ------------------------------------------------------------------------
 
@@ -163,7 +163,7 @@ clients* June 2014 - Dec. 2014
     company approaches trade shows and the effectiveness of the most
     recent one
 
-**AWARDS AND HONORS**
+## **AWARDS AND HONORS**
 
 ------------------------------------------------------------------------
 
@@ -173,7 +173,7 @@ clients* June 2014 - Dec. 2014
 Engineering, 2017
 - **President's Honor Roll,** Rice University , 2016
 
-**STANDARDIZED TESTING**
+## **STANDARDIZED TESTING**
 
 ------------------------------------------------------------------------
 
@@ -184,7 +184,7 @@ Engineering, 2017
 -   SAT Subject Tests: Physics 750, Chemistry 750, Biology 800, Math II
     800
 
-**TECHNICAL SKILLS**
+## **TECHNICAL SKILLS**
 
 ------------------------------------------------------------------------
 
@@ -193,7 +193,7 @@ Engineering, 2017
 
 -   Proficient ANSYS, C++, LaTeX, ProE, Python, R
 
-**PUBLICATIONS**
+## **PUBLICATIONS**
 
 ------------------------------------------------------------------------
 
@@ -215,19 +215,11 @@ Engineering, 2017
     O'Malley., "Estimating Anatomical Wrist Joint Motion with a Robotic
     Exoskeleton," in IEEE Intl. Conf. on Rehab. Robotics (ICORR), 2017](https://ieeexplore.ieee.org/abstract/document/8009450)
 
-**INTERESTS**
+## **INTERESTS**
 
 ------------------------------------------------------------------------
 
 Rock climbing, weight training, reading non fiction, cooking,
 international travel
 
-**ACTIVITIES**
 
-------------------------------------------------------------------------
-
-Bartender at Willy's Pub - 2017\
-Brown College Academic Fellow - 2016\
-Rice University Cheerleader - 2015\
-Tutor at Caroline house, Education Center for Immigrant Women and
-Children - 2013
