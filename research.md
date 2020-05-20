@@ -14,8 +14,11 @@ This is what I'm doing for BoS
 
 ### **Covid Protest Tracking** <br/>
 
+This is the covid project
 
 ### **Hidden Donors** <br/>
+
+This is the hidden donors project
 
 # Past <br/>
 --------------------------------------
