@@ -15,7 +15,7 @@ navbar-links:
   Home: "home"
   About: "aboutme"
   CV: "cv"
-  Research: 
+  Research: "research"
     - Mechancical: "mechanical"
     - Elections: "elections"
     - Protest Twitter: "protest"
